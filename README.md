@@ -7,7 +7,7 @@ I'm a Business Intelligence Developer and a Data Engineer passionate about build
 - **Languages**: SQL, Python, DAX, Machup (M)
 - **Tools**: Apache Airflow, Docker, PostgreSQL, Google BigQuery, Databricks, Git, Python (Pandas, Airflow), Power BI, Metabase, Google Data Studio, MSBI, Azure Data Factory, Microsoft Excel, Google Sheet
 - **Cloud**: AZURE, GCP, AWS.
-- **Other**: Data Engineering, ETL Pipelines, Automation, Business Intelligence, Stakeholders Management, Technical Documentation, Collaboration, Dashboards
+- **Other**: Data Engineering, ETL Pipelines, Automation, Business Intelligence, Stakeholders Management, Data Migration, Technical Documentation, Collaboration, Dashboards
 
 ## Featured Projects
 Here are some of my favorite projects:
