@@ -6,18 +6,18 @@ I'm a [Business Intelligence Developer and a Data Engineer] passionate about [bu
 ## Skills
 - **Languages**: SQL, Python, DAX, Machup (M)
 - **Tools**: Apache Airflow, Docker, PostgreSQL, Google BigQuery, Databricks, Git, Python (Pandas, Airflow), Power BI, Metabase, Google Data Studio, MSBI, Azure Data Factory, Microsoft Excel, Google Sheet
-- **Cloud**: AZURE, GCP
-- **Other**: Data Engineering, ETL Pipelines, Automation, Business Intelligence, Dashboards
+- **Cloud**: AZURE, GCP, AWS.
+- **Other**: Data Engineering, ETL Pipelines, Automation, Business Intelligence, Stakeholders Management, Technical Documentation, Collaboration, Dashboards
 
 ## Featured Projects
 Here are some of my favorite projects:
 - [ETL Data Pipeline with Airflow, PostgreSQL, and Docker](https://github.com/MoraQs/MinifigETLHub): Extracting data from RESTful API & SQL databases, transformed, and loaded into the Analytics DB for REPORTING.
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?MoraQs=MoraQs&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoraQs&show_icons=true&theme=dark)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?MoraQs=MoraQs&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoraQs&layout=compact&theme=dark)
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/tunde-morakinyo/)
