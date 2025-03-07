@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm [Tunde Morakinyo] 👋
 
-<!--
-**MoraQs/MoraQs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a [Business Intelligence Developer and a Data Engineer] passionate about [building scalable data pipelines, automating workflows, and building end-to-end BI solution]. I love working with [Python, SQL, Docker, Apache Airflow, Power BI and cloud (Azure, GCP, and AWS].
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: SQL, Python, DAX, Machup (M)
+- **Tools**: Apache Airflow, Docker, PostgreSQL, Google BigQuery, Databricks, Git, Python (Pandas, Airflow), Power BI, Metabase, Google Data Studio, MSBI, Azure Data Factory, Microsoft Excel, Google Sheet
+- **Cloud**: AZURE, GCP
+- **Other**: Data Engineering, ETL Pipelines, Automation, Business Intelligence, Dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+Here are some of my favorite projects:
+- [ETL Data Pipeline with Airflow, PostgreSQL, and Docker](https://github.com/MoraQs/MinifigETLHub): Extracting data from RESTful API & SQL databases, transformed, and loaded into the Analytics DB for REPORTING.
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?MoraQs=MoraQs&show_icons=true&theme=dark)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?MoraQs=MoraQs&layout=compact&theme=dark)
+
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/tunde-morakinyo/)
+- [Email](mailto:tunde.moraq@gmail.com)
