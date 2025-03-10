@@ -5,7 +5,7 @@ Data Analytics Engineer and Business Intelligence Developer who's passionate abo
 
 ## Skills
 - **Languages**: SQL, Python, DAX, Machup (M)
-- **Tools**: Apache Airflow, Docker, PostgreSQL, Google BigQuery, Databricks, Git, Python (Pandas, Airflow), Power BI, Metabase, Google Data Studio, MSBI, Azure Data Factory, Microsoft Excel, Google Sheet
+- **Tools**: Apache Airflow, Docker, PostgreSQL, Google BigQuery, Databricks, Git, Python (Pandas, Pyspark), Power BI, Metabase, Google Data Studio, MSBI, Azure Data Factory, Microsoft Excel, Google Sheet
 - **Cloud**: AZURE, GCP, AWS.
 - **Other**: Data Engineering, ETL Pipelines, Automation, Business Intelligence, Stakeholders Management, Data Migration, Technical Documentation, Collaboration, Dashboards
 
