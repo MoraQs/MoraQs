@@ -12,7 +12,7 @@ Data Analytics Engineer and Business Intelligence Developer who's passionate abo
 ## Featured Projects
 Here are some of my favorite projects:
 - [ETL Data Pipeline with Airflow, PostgreSQL, and Docker](https://github.com/MoraQs/MinifigETLHub): Extracting data from RESTful API & SQL databases, transformed, and loaded into the Analytics DB for REPORTING.
-- [ETL Data Migration (Core Banking) with SQL and Python](https://github.com/MoraQs/Data-Migration): Extracting data entities in scope for migration from source DB, transformed to a compatible destination schema, and finally load.
+- [ETL Data Migration (Core Banking) with SQL and Python](https://github.com/MoraQs/Data-Migration-CoreBanking): Extracting data entities in scope for migration from source DB, transformed to a compatible destination schema, and finally load.
 
 ## Certifications
 
