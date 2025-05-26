@@ -1,13 +1,12 @@
 # Hi, I'm Tunde Morakinyo 👋
 
 ## About Me
-Data Analytics Engineer and Business Intelligence Developer who's passionate about building scalable data pipelines, automating workflows, and building end-to-end BI solution. I love working with Python, SQL, Docker, Apache Airflow, Power BI and Cloud (Azure, GCP, and AWS), CI/CD, Kubernetes, IaC.
+I am a Data Analytics Engineer and Business Intelligence Developer with a strong passion for building scalable data pipelines, automating workflows, and delivering robust end-to-end BI solutions. I enjoy working with tools and technologies like Python, SQL, Docker, Apache Airflow, Power BI, and cloud platforms including Azure, GCP, and AWS. My expertise also spans CI/CD, Kubernetes, and Infrastructure as Code (IaC), enabling me to develop data systems that are both reliable and production-ready.
 
 ## Skills
 - **Languages**: SQL, Python, DAX, Mashup (M)
-- **Tools**: Apache Airflow, Docker, PostgreSQL, Google BigQuery, Databricks, Git, Python (Pandas, Pyspark), Power BI, Metabase, Google Data Studio, MSBI, Azure Data Factory, Microsoft Excel, Google Sheet
-- **Cloud**: AZURE, GCP, AWS.
-- **Other**: Data Engineering, ETL Pipelines, Automation, Business Intelligence, Stakeholders Management, Data Migration, Technical Documentation, Collaboration, Dashboards
+- **Tools**: Azure Data Factory, Synapse, Databricks, , Power BI, Apache Airflow, Docker, PostgreSQL, Google BigQuery, Git, Python (Pandas, Pyspark), Metabase, Google Data Studio, MSBI, Fabric
+- **Skills**: Data Engineering, ETL/ELT Pipelines, Automation, Business Intelligence, Stakeholders Management, Data Migration, Technical Documentation, Commun,ication Collaboration, Dashboards
 
 ## Featured Projects
 Here are some of my favorite projects:
