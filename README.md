@@ -12,7 +12,7 @@ I thrive in data-driven environments and love working with tools like **Python**
 -  SQL, Python (Pandas, PySpark), DAX, Mashup (M)
 
 **🧰 Tools & Platforms**
-- Power BI, Azure Data Factory, Synapse Analytics, Databricks, Apache Airflow
+- Power BI, Azure Data Factory, Synapse Analytics, Databricks, DBT, Apache Airflow
 - Docker, Kubernetes, PostgreSQL, Google BigQuery, MSBI, Microsoft Fabric
 - Git, Azure Devops Metabase, Google Data Studio
 
@@ -28,6 +28,9 @@ I thrive in data-driven environments and love working with tools like **Python**
 ## 🚀 Featured Projects
 Here are some highlights of projects that demonstrate my hands-on experience:
 
+- [Azure Data Factory CI/CD Pipeline with Metadata-Driven Incremental Loads](https://github.com/MoraQs/ADF-CICD-Incremental-Load-Pipeline)
+  Demonstrates a robust, production-ready CI/CD pipeline setup for Azure Data Factory (ADF), leveraging metadata-driven design for full and incremental data loads
+  
 - [ETL Data Pipeline with Airflow, PostgreSQL, and Docker](https://github.com/MoraQs/MinifigETLHub)
   Built an automated pipeline to extract data from RESTful APIs and SQL databases, transform it, and load it into an analytics-ready PostgreSQL database for reporting.
   
