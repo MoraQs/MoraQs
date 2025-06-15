@@ -12,7 +12,7 @@ I thrive in data-driven environments and love working with tools like **Python**
 -  SQL, Python (Pandas, PySpark), DAX, Mashup (M)
 
 **🧰 Tools & Platforms**
-- Power BI, Azure Data Factory, Synapse Analytics, Databricks, DBT (Data Build Tool) , Apache Airflow
+- Power BI, Azure Data Factory, Synapse Analytics, Databricks, Apache Airflow
 - Docker, Kubernetes, PostgreSQL, Google BigQuery, MSBI, Microsoft Fabric
 - Git, Azure Devops Metabase, Google Data Studio
 
