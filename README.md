@@ -4,7 +4,7 @@
 
 I’m a **Data Analytics Engineer** and **Business Intelligence Developer** with a passion for building scalable data pipelines, automating workflows, and delivering robust, end-to-end BI solutions. 
 
-I thrive in data-driven environments and love working with tools like **Python**, **SQL**, **Docker**, **Apache Airflow**, and **Power BI**, alongside cloud platforms such as **Azure**, **GCP**, and **AWS**. My expertise spans **CI/CD**, **Kubernetes**, and **Infrastructure as Code (IaC)** — ensuring modern, reliable, and production-grade data systems.
+I thrive in data-driven environments and love working with tools like **Python**, **SQL**, **Docker**, **Apache Airflow**, and **Power BI**, alongside cloud platforms such as **Azure**, **GCP**, and **AWS**. My expertise spans **CI/CD**, and **Infrastructure as Code (IaC)** — ensuring modern, reliable, and production-grade data systems.
 
 ## 🧠 Skills & Expertise
 
